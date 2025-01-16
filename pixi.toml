@@ -4,7 +4,7 @@
 
 [project]
 name = "husky-feedstock"
-version = "3.44.9"
+version = "3.45.2"
 description = "Pixi configuration for conda-forge/husky-feedstock"
 authors = ["@conda-forge/husky"]
 channels = ["conda-forge"]
